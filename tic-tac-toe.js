@@ -105,108 +105,74 @@ function getWinner() {
 };
 
 function ahover(){  
-
   a.classList.add('hover');		    
 }
 
 function anoHover(){  
-
-  a.classList.remove('hover');
-  
-   			    
+  a.classList.remove('hover');     			    
 }
 
 function bhover(){  
-
   b.classList.add('hover');		    
 }
 
 function bnoHover(){  
-
-  b.classList.remove('hover');
-  
-   			    
+  b.classList.remove('hover');  			    
 }
 
 function chover(){  
-
   c.classList.add('hover');		    
 }
 
 function cnoHover(){  
-
-  c.classList.remove('hover');
-  
-   			    
+  c.classList.remove('hover'); 			    
 }
 
 function dhover(){  
-
   d.classList.add('hover');		    
 }
 
 function dnoHover(){  
-
-  d.classList.remove('hover');
-  
-   			    
+  d.classList.remove('hover'); 			    
 }
 
 function ehover(){  
-
   e.classList.add('hover');		    
 }
 
 function enoHover(){  
-
-  e.classList.remove('hover');
-  
-   			    
+  e.classList.remove('hover');			    
 }
 
 function fhover(){  
-
   f.classList.add('hover');		    
 }
 
 function fnoHover(){  
-
-  f.classList.remove('hover');
-  
-   			    
+  f.classList.remove('hover');		    
 }
 
 function ghover(){  
-
   g.classList.add('hover');		    
 }
 
 function gnoHover(){  
-
-  g.classList.remove('hover');
-  
-   			    
+  g.classList.remove('hover'); 			    
 }
 
 function hhover(){  
-
   h.classList.add('hover');		    
 }
 
 function hnoHover(){  
-
-  h.classList.remove('hover');
-  
-   			    
+  h.classList.remove('hover');			    
 }
 
 function ihover(){  
-
   i.classList.add('hover');		    
 }
 
 function inoHover(){  
-
   i.classList.remove('hover');   			    
 }
 
